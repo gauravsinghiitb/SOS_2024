@@ -1,4 +1,4 @@
 # SOS_2024
-## Stock Market Analysis
+## PROJECT - Stock Market Analysis
 
 
